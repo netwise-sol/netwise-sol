@@ -1,10 +1,10 @@
-# Welcome to [Your Company Name]'s GitHub!
+# Welcome to NetWise's GitHub!
 
 ![Logo](URL_to_Logo_Image)  <!-- Add your logo here -->
 
 ## About Us
 
-Welcome to **[Your Company Name]**! We are a passionate team of web developers and designers dedicated to building and maintaining high-quality websites for businesses of all sizes and industries. Our mission is to help you establish a robust online presence with seamless, secure, and affordable web solutions.
+Welcome to **NetWise**! We are a passionate team of web developers and designers dedicated to building and maintaining high-quality websites for businesses of all sizes and industries. Our mission is to help you establish a robust online presence with seamless, secure, and affordable web solutions.
 
 ## Services
 
@@ -38,20 +38,3 @@ Interested in our services? Want to collaborate on a project? Feel free to reach
 
 - **Email**: [Your Email Address]
 - **Website**: [Your Website URL]
-- **LinkedIn**: [Your LinkedIn Profile]
-
-## Contributing
-
-We welcome contributions! If you are interested in contributing to our projects, please read our [Contributing Guidelines](URL_to_Contributing_Guidelines).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](URL_to_License) file for details.
-
-## Follow Us
-
-Stay updated with our latest projects and services:
-
-- [Twitter](URL_to_Twitter)
-- [Facebook](URL_to_Facebook)
-- [Instagram](URL_to_Instagram)
